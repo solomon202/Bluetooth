@@ -1,0 +1,8 @@
+
+
+<resources>
+    <string name="app_name">BtMonitor</string>
+    <string name="title_item_name">Найдиные устройства:</string>
+    <string name="discovering">Поиск…</string>
+</resources>
+
